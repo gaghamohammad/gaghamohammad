@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 
+i'm curently learning HTML and CSS 
 
 <!--
 **gaghamohammad/gaghamohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
